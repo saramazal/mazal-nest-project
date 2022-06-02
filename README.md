@@ -36,8 +36,8 @@
 ## General info
 
 ## Screenshots
-![screenshot](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-postgres.png)
-![]()
+![PostgreSQL](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-postgres.png)
+![Postman](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-postman.png)
 ![]()
 ![]()
 
