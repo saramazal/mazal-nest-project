@@ -15,6 +15,6 @@ const config = new DocumentBuilder()
 const document = SwaggerModule.createDocument(app, config);
 SwaggerModule.setup('/api/docs', app, document)
 
-  await app.listen(PORT, () => console.log(`Server started on port = ${PORT}`));
+  await app.listen(PORT, () => console.log(`My Very Cool Server started on port: ${PORT}. Happy Hacking!!!`));
 }
 start();
