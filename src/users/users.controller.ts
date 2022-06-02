@@ -4,6 +4,7 @@ import {UsersService } from './users.service';
 import {ApiOperation, ApiResponse, ApiTags} from "@nestjs/swagger";
 import {User} from './users.model'
 
+@ApiTags('Users')
 @Controller('users')
 export class UsersController {
 
@@ -16,7 +17,7 @@ export class UsersController {
         return this.usersService.createUser(userDto);
     }
 
-    @ApiOperation({summary: 'To get All Users'})
+    @ApiOperation({summary: 'To get AllUsers'})
     @ApiResponse({status: 200, type: [User]})
     @Get()
     getAll() {
