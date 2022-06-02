@@ -36,7 +36,10 @@
 ## General info
 
 ## Screenshots
-![screenshot])
+![screenshot](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-postgres.png)
+![]()
+![]()
+![]()
 
 ## Technologies
 * [NestJS]()
