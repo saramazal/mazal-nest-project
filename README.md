@@ -39,7 +39,7 @@
 ![PostgreSQL](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-postgres.png)
 ![Postman](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-postman.png)
 ![Swagger](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-swagger1.png)
-![]()
+![Swagger](https://github.com/saramazal/mazal-nest-project/blob/main/images/mazal-nest-swagger.png)
 
 ## Technologies
 * [NestJS]()
