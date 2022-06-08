@@ -14,6 +14,7 @@ import {UserRoles} from '../roles/user-roles.model'
   imports: [
     SequelizeModule.forFeature([User, Role, UserRoles]),
     RolesModule
-  ]
+  ],
+  exports: [UsersService]
 })
 export class UsersModule {}
