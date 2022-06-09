@@ -41,7 +41,7 @@ export class AuthService {
         if (user && passwordEquals) {
             return user;
         }
-        throw new UnauthorizedException({message: '  Your password or email is not correct'})
+        throw new UnauthorizedException({message: 'Your password or email is not correct'})
     }
 }
 
