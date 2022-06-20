@@ -47,6 +47,7 @@
 * [Swagger]()
 * [cross-env]()
 * [PostgreSQL]()
+* [JWT.io](https://jwt.io/)
 * [Docker]()
 * [VSCode](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/)

@@ -19,6 +19,7 @@ import {UserRoles} from '../roles/user-roles.model'
   ],
   exports: [
     UsersService,
+    AuthModule
     
   ]
 })
